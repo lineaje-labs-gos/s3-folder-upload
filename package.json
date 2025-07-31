@@ -1,9 +1,15 @@
 {
   "name": "s3-folder-upload",
-  "version": "2.3.4",
+  "version": "2.3.5-lineaje-01",
   "description": "Upload statics to S3 server",
   "main": "index.js",
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bin": {
     "s3-folder-upload": "./bin/s3-folder-upload.js"
   },
@@ -14,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:miduga/s3-folder-upload.git"
+    "url": "https://github.com/lineaje-labs-gos/s3-folder-upload"
   },
-  "author": "Miguel Ángel Durán <miduga@gmail.com>",
+  "author": "Miguel \u00c1ngel Dur\u00e1n <miduga@gmail.com>",
   "bugs": {
     "url": "https://github.com/miduga/s3-folder-upload/issues"
   },
