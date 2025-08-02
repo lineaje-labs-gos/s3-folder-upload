@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/miduga/s3-folder-upload/#readme",
   "dependencies": {
-    "async": "3.2.0",
+    "async": "3.2.6",
     "aws-sdk": "2.647.0",
     "globby": "10.0.1",
     "log-update": "3.3.0",
